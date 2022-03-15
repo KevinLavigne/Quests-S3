@@ -1,6 +1,8 @@
-const name = "Lavigne Kevin"
-const campus = "Remote Campus FR"
+ const me = {
+    name : "Lavigne Kevin",
+    campus : "Remote Campus FR"
+}
 module.exports ={
-    name: name,
-    campus: campus,
+    me,name: name,
+    me,campus: campus,
 }
